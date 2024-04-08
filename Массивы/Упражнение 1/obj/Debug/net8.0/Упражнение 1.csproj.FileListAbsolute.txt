@@ -1,0 +1,15 @@
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\bin\Debug\net8.0\Упражнение 1.exe
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\bin\Debug\net8.0\Упражнение 1.deps.json
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\bin\Debug\net8.0\Упражнение 1.runtimeconfig.json
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\bin\Debug\net8.0\Упражнение 1.dll
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\bin\Debug\net8.0\Упражнение 1.pdb
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.AssemblyInfoInputs.cache
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.AssemblyInfo.cs
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.csproj.CoreCompileInputs.cache
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.sourcelink.json
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.dll
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\refint\Упражнение 1.dll
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.pdb
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\Упражнение 1.genruntimeconfig.cache
+D:\HARDWORK\C#\Metanit-C-Exercises\Массивы\Упражнение 1\obj\Debug\net8.0\ref\Упражнение 1.dll
