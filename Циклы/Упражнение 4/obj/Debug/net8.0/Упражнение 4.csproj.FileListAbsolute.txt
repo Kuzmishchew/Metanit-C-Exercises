@@ -1,0 +1,15 @@
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.AssemblyInfoInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.AssemblyInfo.cs
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.csproj.CoreCompileInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.sourcelink.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\bin\Debug\net8.0\Упражнение 4.exe
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\bin\Debug\net8.0\Упражнение 4.deps.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\bin\Debug\net8.0\Упражнение 4.runtimeconfig.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\bin\Debug\net8.0\Упражнение 4.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\bin\Debug\net8.0\Упражнение 4.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\refint\Упражнение 4.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\Упражнение 4.genruntimeconfig.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Циклы\Упражнение 4\obj\Debug\net8.0\ref\Упражнение 4.dll
