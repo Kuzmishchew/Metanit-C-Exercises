@@ -1,0 +1,14 @@
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.AssemblyInfoInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.AssemblyInfo.cs
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.csproj.CoreCompileInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\bin\Debug\net8.0\Упражнение6.exe
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\bin\Debug\net8.0\Упражнение6.deps.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\bin\Debug\net8.0\Упражнение6.runtimeconfig.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\bin\Debug\net8.0\Упражнение6.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\bin\Debug\net8.0\Упражнение6.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\refint\Упражнение6.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\Упражнение6.genruntimeconfig.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Metanit\Условные конструкции\Упражнение6\obj\Debug\net8.0\ref\Упражнение6.dll
