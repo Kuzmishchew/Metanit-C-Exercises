@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Максим\\.nuget\\packages\\": {}
+    "C:\\Users\\kuzmishev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HARDWORK\\C#\\Metanit-C-Exercises\\Массивы\\Упражнение 1\\Упражнение 1.csproj",
+      "projectUniqueName": "C:\\Users\\kuzmishev\\Desktop\\HARDWORK\\C#\\Metanit\\Массивы\\Упражнение 1\\Упражнение 1.csproj",
       "projectName": "Упражнение 1",
-      "projectPath": "D:\\HARDWORK\\C#\\Metanit-C-Exercises\\Массивы\\Упражнение 1\\Упражнение 1.csproj",
-      "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-      "outputPath": "D:\\HARDWORK\\C#\\Metanit-C-Exercises\\Массивы\\Упражнение 1\\obj\\",
+      "projectPath": "C:\\Users\\kuzmishev\\Desktop\\HARDWORK\\C#\\Metanit\\Массивы\\Упражнение 1\\Упражнение 1.csproj",
+      "packagesPath": "C:\\Users\\kuzmishev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kuzmishev\\Desktop\\HARDWORK\\C#\\Metanit\\Массивы\\Упражнение 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kuzmishev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
