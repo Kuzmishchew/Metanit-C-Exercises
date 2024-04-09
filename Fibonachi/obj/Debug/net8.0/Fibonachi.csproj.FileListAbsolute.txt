@@ -1,0 +1,14 @@
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.AssemblyInfo.cs
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\bin\Debug\net8.0\Fibonachi.exe
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\bin\Debug\net8.0\Fibonachi.deps.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\bin\Debug\net8.0\Fibonachi.runtimeconfig.json
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\bin\Debug\net8.0\Fibonachi.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\bin\Debug\net8.0\Fibonachi.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\refint\Fibonachi.dll
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.pdb
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\Fibonachi.genruntimeconfig.cache
+C:\Users\kuzmishev\Desktop\HARDWORK\C#\Fibonachi\obj\Debug\net8.0\ref\Fibonachi.dll
